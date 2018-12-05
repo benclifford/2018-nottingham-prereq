@@ -1,5 +1,5 @@
-Hands-on RESTful API Tutorial
-=============================
+Hands-on RESTful Booking System Tutorial
+========================================
 
 If you're participating in this tutorial, you should bring
 a laptop which can build Haskell code. The following steps

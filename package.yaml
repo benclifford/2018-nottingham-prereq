@@ -1,6 +1,6 @@
-name:                hx2018-prereq
+name:                prereq
 version:             0.1.0.0
-github:              "githubuser/hx2018-prereq"
+github:              "benclifford/2018-nottingham-prereq"
 license:             BSD3
 author:              "Ben Clifford"
 maintainer:          "benc@cqx.ltd.uk"
